@@ -1,0 +1,83 @@
+body{
+    background-color: rgb(255, 26, 194);
+}
+.main{
+    position: relative;
+    left: 10%;
+    top: 50px;
+}
+.top{
+    width: 17%;
+    height: -100%;
+    background-color: rgb(255, 0, 0);
+    border: 6px solid white;
+    position: relative;
+    top: 100px;
+}
+#songs{
+    
+    font-family: "groupie-gloss", sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 800%;
+color: rgb(116, 61, 243);
+position:relative;
+left: 4.5%;
+}
+.As{
+    width: 20%;
+    height: 60%;
+    border-radius: 50%;
+    background-color: rgb(0, 136, 255);
+    border: 6px solid green;
+    transform: rotate(-20deg);
+    position: relative;
+    left: 15%;
+    top: -170px;
+}
+#as{
+    font-family: "bdr-mono", sans-serif;
+font-weight: 700;
+font-style: normal;
+font-size: 400%;
+position:relative;
+left: 35%;
+color: white;
+}
+.ART{
+    width: 20%;
+    height: 100%;
+    background-color: orange;
+    border: 7px dotted red;
+    position: relative;
+    left: 30%;
+    top: -500px;
+}
+#art{
+    font-family: "glodok", sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 600%;
+color:rgb(255, 0, 0);
+position: relative;
+left: 10%;
+}
+.MOVEMENTS{
+    width: 30%;
+    height: 70%;
+    background-color: rgb(0, 225, 0);
+    position: relative;
+    top: -600px;
+    left: 50%;
+    border: 7px solid blue;
+
+}
+#movements{
+    font-family: "fit", sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 700%;
+position: relative;
+left: 10%;
+color: purple;
+}
